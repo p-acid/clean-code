@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Clean Code 💻",
   tagline: "Summary of the Clean Code",
-  url: "https://github.com/p-acid/clean-code",
+  url: "https://github.com",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
