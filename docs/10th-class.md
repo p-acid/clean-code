@@ -236,3 +236,9 @@ public class Stack {
 	}
 }
 ```
+
+<br/>
+
+## 응집도
+
+---
